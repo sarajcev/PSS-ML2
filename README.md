@@ -11,6 +11,6 @@ Dataset contains phasor measurements (PMU) signals from the IEEE New England 39-
 
 **ML Models**
 
-Jupyter Notebook rendered on nbviewer: [PSS-ML2](https://nbviewer.jupyter.org/github/sarajcev/PSS-ML/blob/master/PSStabML2.ipynb)
+Jupyter Notebook rendered on nbviewer: [PSS-ML2](https://nbviewer.jupyter.org/github/sarajcev/PSS-ML2/blob/main/PSStabML2.ipynb)
 
 Undercomplete denoising stacked autoencoder for the unsupervised dimensionality reduction of the features space. A deep neural network classifier from the pretrained autoencoder (with transfer learning from the encoder). A soft voting ensemble built from a support vector machine and a random forest classifiers. Ensemble weights obtained from solving a constrained optimization problem. Hyperparameters fine-tuning using a randomized search and the Bayesian optimization. Classifier calibration with precision-recall curves, receiver operating characteristic and detection error trade-off curves. Metrics include ROC-AUC score, F1 measure and Matthews correlation coefficient.
