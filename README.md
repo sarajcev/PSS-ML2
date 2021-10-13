@@ -7,7 +7,7 @@ Machine learning for power system transient stability assessment
 
 Dataset is deposited on zenodo: [Power System Transient Stability Assessment Simulations Dataset - IEEE New England 39-bus test case](https://www.zenodo.org/record/4521886) DOI: 10.5281/zenodo.4521886
 
-Dataset contains phasor measurements (PMU) signals from the IEEE New England 39-bus power system test case network, which are generated from a large corpus of systematic MATLAB®/Simulink electro-mechanical transients simulations. Different load and generation levels of the New England 39-bus benchmark power system are systematically covered, as well as all three major types of short-circuit events. Dataset contains time-domain signals from 9360 different simulations.
+Dataset contains phasor measurements (PMU) signals from the **IEEE New England 39-bus power system test case** network, which are generated from a large corpus of systematic MATLAB®/Simulink electro-mechanical transients simulations. Different load and generation levels of the New England 39-bus benchmark power system are systematically covered, as well as all three major types of short-circuit events. Dataset contains time-domain signals from 9360 different simulations.
 
 **ML Models**
 
